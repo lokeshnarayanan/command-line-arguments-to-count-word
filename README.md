@@ -27,8 +27,8 @@ Print the number of words.
 ```
 '''
 Program for getting the word count from the contents of a file using command line arguments.
-Programmed by: G.Chethan Kumar
-Ref.No.: 212222240022
+Programmed by: Lokesh N
+Ref.No.: 212222100023
 '''
 import sys
 fp=open(sys.argv[1],'r')
